@@ -1,0 +1,10 @@
+.socials {
+  margin: 2%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.icon {
+  margin: 10px;
+}
